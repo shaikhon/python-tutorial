@@ -4,14 +4,15 @@ A basic Python tutorial as a jupyter notebook for beginners with no programming 
 ## Getting Started:
 For beginners, it is recommended to upload and run the notebook using the Google's Colab site to skip the Python installation. Here is how to get started immediatly:
 
-  1. Download the tutorial notebook titled: PY-101_python_basics.ipynb (right-click => save as) 
+  1. Download the tutorial notebook titled: *PY-101_python_basics.ipynb* (right-click => save as) 
   <img src="images/download_notebook.png" alt="drawing" width="600"/>
   
   2. Go to [Google Colab](https://colab.research.google.com/)
-  3. Log in using your Gmail/Google account (to save your progress)
+
+  3. Sign in using your Gmail/Google account (to save your progress)
   <img src="images/colab_login.png" alt="drawing" width="600"/>
   
-  4. Upload the PY-101_python_basics.ipynb notebook and get started
+  4. Upload the *PY-101_python_basics.ipynb* notebook to get started
   <img src="images/upload_notebook.png" alt="drawing" width="600"/>
   
 ## Notebook 1. PY-101_python_basics:
