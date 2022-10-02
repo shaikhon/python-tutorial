@@ -8,20 +8,20 @@ For beginners, it is recommended to upload and run the notebook using the Google
   
   ![Download Notebook](images/download_notebook.png)
   
-  <img src="images/download_notebook.png" alt="drawing" width="200"/>
+  <img src="images/download_notebook.png" alt="drawing" width="400"/>
   
   2. Go to [Google Colab](https://colab.research.google.com/)
   3. Log in using your Gmail/Google account (to save your progress)
   
   ![Download Notebook](images/colab_login.png)
   
-  <img src="images/colab_login.png" alt="drawing" width="200"/>
+  <img src="images/colab_login.png" alt="drawing" width="600"/>
   
   4. Upload the PY-101_python_basics.ipynb notebook and get started
   
   ![Download Notebook](images/upload_notebook.png)
   
-  <img src="images/upload_notebook.png" alt="drawing" width="200"/>
+  <img src="images/upload_notebook.png" alt="drawing" width="400"/>
   
 
 ## Notebook 1. PY-101_python_basics:
