@@ -9,7 +9,7 @@ For beginners, it is recommended to upload and run the notebook using the Google
   3. Log in using your Gmail/Google account (to save your progress)
   4. Upload the PY-101_python_basics.ipynb notebook and get started
 
-## Notebook 1. Python Basics
+## Notebook 1. PY-101_python_basics:
 In this notebook, we will cover the following Python basics:
 
   0. Background information
