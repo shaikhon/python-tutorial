@@ -15,6 +15,12 @@ For beginners, it is recommended to upload and run the notebook using the Google
   4. Upload the *PY-101_python_basics.ipynb* notebook to get started
   <img src="images/upload_notebook.png" alt="drawing" width="600"/>
   
+#### Notes:
+  * Once uploaded and saved, you can access your notebook from any machine. 
+  * Your notebook will be saved on the Google cloud... no need to re-upload it. All you have to do is sign into Google Colab.
+
+
+
 ## Notebook 1. PY-101_python_basics:
 In this notebook, we will cover the following Python basics:
 
