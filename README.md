@@ -7,9 +7,7 @@ For beginners, it is recommended to upload and run the notebook using the Google
   1. Download the tutorial notebook titled: *PY-101_python_basics.ipynb* (right-click => save as) 
   <img src="images/download_notebook.png" alt="drawing" width="600"/>
   
-  2. Go to [Google Colab](https://colab.research.google.com/)
-
-  3. Sign in using your Gmail/Google account (to save your progress)
+  2. Go to [Google Colab](https://colab.research.google.com/) & sign in using your Gmail/Google account (to save your progress)
   <img src="images/colab_login.png" alt="drawing" width="600"/>
   
   4. Upload the *PY-101_python_basics.ipynb* notebook to get started
