@@ -1,5 +1,5 @@
 # python-tutorial
-A basic Python tutorial as a jupyter notebook for beginners with no programming experience
+A basic Python tutorial as a jupyter notebook for beginners with no programming experience. Zero installation required.
 
 ## Getting Started:
 For beginners, it is recommended to upload and run the notebook using the Google's Colab site to skip the Python installation. Here is how to get started immediatly:
