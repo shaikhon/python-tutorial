@@ -1,8 +1,6 @@
 # PY-101 Introduction to Python and Machine Learning
 ###### Author: Obai Shaikh
 
-----
-
 A series of Python and Machine Learning tutorials as jupyter notebooks for beginners with no programming experience. Zero installation required.
 
 ## Getting Started:
