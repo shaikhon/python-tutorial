@@ -7,8 +7,8 @@ This tutorial uses Google's Colab site to skip the Python installation. Here is 
   
   1. Click on a notebook to open it in Google Colab:
       * [01_Python_Basics](https://colab.research.google.com/drive/1wqnvJKxU3Uk4KF4wrd_3_BZP7q38J7cq?usp=sharing)
-      * 02_Numpy_Pandas_Matplotlib | coming soon...
-      * 03_Intro_to_Machine_Learning | coming soon...
+      * 02_Numpy_Pandas_Matplotlib    (coming soon...)
+      * 03_Intro_to_Machine_Learning  (coming soon...)
   
   2. Sign-in using your Gmail/Google account
   <img src="images/colab_login.png" alt="drawing" width="600"/>
