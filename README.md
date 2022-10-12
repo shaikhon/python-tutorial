@@ -5,7 +5,7 @@ A series of Python and Machine Learning tutorials as jupyter notebooks for begin
 ## Getting Started:
 This tutorial uses Google's Colab site to skip the Python installation. Here is how to get started immediatly:
   
-  1. Click on one of the notebooks below to open it in Google Colab:
+  1. Click on a notebook to open it in Google Colab:
       * [01_Python_Basics](https://colab.research.google.com/drive/1wqnvJKxU3Uk4KF4wrd_3_BZP7q38J7cq?usp=sharing)
       * 02_Numpy_Pandas_Matplotlib | coming soon...
       * 03_Intro_to_Machine_Learning | coming soon...
