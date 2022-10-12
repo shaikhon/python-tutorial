@@ -13,7 +13,7 @@ This tutorial uses Google's Colab site to skip the Python installation. Here is 
   2. Sign-in using your Gmail/Google account
   <img src="images/colab_login.png" alt="drawing" width="600"/>
 
-  3. Click File > Save or "Copy to Drive"
+  3. Click *File > Save* or "Copy to Drive"
   <img src="images/copy_to_drive.png" alt="drawing" width="600"/>
   
 #### Notes:
