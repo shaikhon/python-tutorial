@@ -12,7 +12,7 @@ This tutorial uses Google's Colab site to skip the Python installation. Here is 
   2. Sign-in using your Gmail/Google account
   <img src="images/colab_login.png" alt="drawing" width="600"/>
 
-  3. Click File > Save 
+  3. Click File > Save or "Copy to Drive"
   <img src="images/copy_to_drive.png" alt="drawing" width="600"/>
   
 #### Notes:
@@ -21,10 +21,9 @@ This tutorial uses Google's Colab site to skip the Python installation. Here is 
   * Your notebook will be saved on the Google cloud... no need to re-upload it. All you have to do is sign into Google Colab.
 
 
+# Course Content:
 
-## Notebook 1. PY-101_python_basics:
-In this notebook, we will cover the following Python basics:
-
+## Notebook 1. PY-101_Python_Basics:
   0. Background information
   1. Built-in types
   2. Operations
@@ -33,3 +32,4 @@ In this notebook, we will cover the following Python basics:
   5. Flow control
   6. Creating functions
   7. Bringing it all together
+
